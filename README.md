@@ -1,1 +1,1 @@
-# asian_hate_sentimental_analysis
+# Twitter Sentimental Analysis on Asian Hate
